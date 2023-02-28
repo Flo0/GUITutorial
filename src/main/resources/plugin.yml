@@ -1,0 +1,6 @@
+name: GUITutorial
+version: '${project.version}'
+main: com.gestankbratwurst.guitutorial.GUITutorial
+api-version: 1.19
+authors: [ Gestankbratwurst ]
+description: Spigot tutorial for writing decent GUIs.
